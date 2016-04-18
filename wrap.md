@@ -3,5 +3,5 @@ nowrap | wrap | wrap-reverse
 
 ## answer
 ```
-flex: [no-wrap|wrap|rev-wrap];
+[flex|wrap]: [no-wrap|wrap|rev-wrap];
 ```

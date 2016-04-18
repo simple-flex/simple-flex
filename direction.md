@@ -5,6 +5,6 @@ row | row-reverse | column | column-reverse
 ## answer
 
 ```
-flex: [row|column];
-flex: rev-[row|column];
+[flex|flex-dir]: [row|column];
+[flex|flex-dir]: rev-[row|column];
 ```
